@@ -1,4 +1,4 @@
-### :deciduous_tree: Kesinee Boonchuay :four_leaf_clover:
+### :deciduous_tree: Kesinee Boonchuay 
 
 <!--
 **kesinee-bo/kesinee-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning front-end web development.
+- :four_leaf_clover: I’m currently learning front-end web development.
 - 📫 How to reach me: kesinee.bo@skru.ac.th
